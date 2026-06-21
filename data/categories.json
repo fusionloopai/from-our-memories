@@ -1,0 +1,13 @@
+{
+  "chapters": [
+    { "key": "title",          "label": "From Our Memories" },
+    { "key": "baby-childhood", "label": "Baby & Childhood" },
+    { "key": "old-family",     "label": "Old Family Memories" },
+    { "key": "wedding",        "label": "Wedding & Romance" },
+    { "key": "family-years",   "label": "Family Through the Years" },
+    { "key": "reunions",       "label": "Reunions & Gatherings" },
+    { "key": "adventures",     "label": "Adventures & Activities" },
+    { "key": "recent",         "label": "Recent Memories" }
+  ],
+  "slides": []
+}
